@@ -1,0 +1,15 @@
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\refint\OperatorOverloading.dll
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache
+E:\Practice\C#\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
