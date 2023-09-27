@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ImplicitAndExplicitCasting/1.0.0": {
+        "runtime": {
+          "ImplicitAndExplicitCasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImplicitAndExplicitCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

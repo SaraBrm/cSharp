@@ -1,0 +1,15 @@
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\bin\Debug\net5.0\ImplicitAndExplicitCasting.exe
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\bin\Debug\net5.0\ImplicitAndExplicitCasting.deps.json
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\bin\Debug\net5.0\ImplicitAndExplicitCasting.runtimeconfig.json
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\bin\Debug\net5.0\ImplicitAndExplicitCasting.runtimeconfig.dev.json
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\bin\Debug\net5.0\ImplicitAndExplicitCasting.dll
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\bin\Debug\net5.0\ImplicitAndExplicitCasting.pdb
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.AssemblyInfoInputs.cache
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.AssemblyInfo.cs
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.csproj.CoreCompileInputs.cache
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.dll
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\refint\ImplicitAndExplicitCasting.dll
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.pdb
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ImplicitAndExplicitCasting.genruntimeconfig.cache
+E:\Practice\C#\ImplicitAndExplicitCasting\ImplicitAndExplicitCasting\obj\Debug\net5.0\ref\ImplicitAndExplicitCasting.dll
