@@ -1,0 +1,15 @@
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\bin\Debug\net5.0\Example.Dictionary.exe
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\bin\Debug\net5.0\Example.Dictionary.deps.json
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\bin\Debug\net5.0\Example.Dictionary.runtimeconfig.json
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\bin\Debug\net5.0\Example.Dictionary.runtimeconfig.dev.json
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\bin\Debug\net5.0\Example.Dictionary.dll
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\bin\Debug\net5.0\Example.Dictionary.pdb
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.AssemblyInfoInputs.cache
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.AssemblyInfo.cs
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.dll
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\refint\Example.Dictionary.dll
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.pdb
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\Example.Dictionary.genruntimeconfig.cache
+E:\Practice\C#\Example.Dictionary\Example.Dictionary\obj\Debug\net5.0\ref\Example.Dictionary.dll
