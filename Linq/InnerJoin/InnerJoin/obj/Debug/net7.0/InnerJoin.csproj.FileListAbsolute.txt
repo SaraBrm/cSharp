@@ -1,0 +1,14 @@
+E:\Practice\Linq\InnerJoin\InnerJoin\bin\Debug\net7.0\InnerJoin.exe
+E:\Practice\Linq\InnerJoin\InnerJoin\bin\Debug\net7.0\InnerJoin.deps.json
+E:\Practice\Linq\InnerJoin\InnerJoin\bin\Debug\net7.0\InnerJoin.runtimeconfig.json
+E:\Practice\Linq\InnerJoin\InnerJoin\bin\Debug\net7.0\InnerJoin.dll
+E:\Practice\Linq\InnerJoin\InnerJoin\bin\Debug\net7.0\InnerJoin.pdb
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.AssemblyInfoInputs.cache
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.AssemblyInfo.cs
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.csproj.CoreCompileInputs.cache
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.dll
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\refint\InnerJoin.dll
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.pdb
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\InnerJoin.genruntimeconfig.cache
+E:\Practice\Linq\InnerJoin\InnerJoin\obj\Debug\net7.0\ref\InnerJoin.dll

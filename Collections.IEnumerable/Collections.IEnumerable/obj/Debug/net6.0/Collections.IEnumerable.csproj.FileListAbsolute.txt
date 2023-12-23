@@ -1,0 +1,14 @@
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.AssemblyInfoInputs.cache
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.AssemblyInfo.cs
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\bin\Debug\net6.0\Collections.IEnumerable.exe
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\bin\Debug\net6.0\Collections.IEnumerable.deps.json
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\bin\Debug\net6.0\Collections.IEnumerable.runtimeconfig.json
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\bin\Debug\net6.0\Collections.IEnumerable.dll
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\bin\Debug\net6.0\Collections.IEnumerable.pdb
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.dll
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\refint\Collections.IEnumerable.dll
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.pdb
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\Collections.IEnumerable.genruntimeconfig.cache
+E:\Practice\C#\Collections.IEnumerable\Collections.IEnumerable\obj\Debug\net6.0\ref\Collections.IEnumerable.dll

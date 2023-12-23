@@ -1,0 +1,15 @@
+E:\Practice\C#\Factorial\Factorial\bin\Debug\net5.0\Factorial.exe
+E:\Practice\C#\Factorial\Factorial\bin\Debug\net5.0\Factorial.deps.json
+E:\Practice\C#\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.json
+E:\Practice\C#\Factorial\Factorial\bin\Debug\net5.0\Factorial.runtimeconfig.dev.json
+E:\Practice\C#\Factorial\Factorial\bin\Debug\net5.0\Factorial.dll
+E:\Practice\C#\Factorial\Factorial\bin\Debug\net5.0\Factorial.pdb
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.dll
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\refint\Factorial.dll
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.pdb
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\Factorial.genruntimeconfig.cache
+E:\Practice\C#\Factorial\Factorial\obj\Debug\net5.0\ref\Factorial.dll

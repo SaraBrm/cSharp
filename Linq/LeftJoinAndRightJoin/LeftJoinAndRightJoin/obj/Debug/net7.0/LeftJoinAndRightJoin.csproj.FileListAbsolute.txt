@@ -1,0 +1,14 @@
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\bin\Debug\net7.0\LeftJoinAndRightJoin.exe
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\bin\Debug\net7.0\LeftJoinAndRightJoin.deps.json
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\bin\Debug\net7.0\LeftJoinAndRightJoin.runtimeconfig.json
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\bin\Debug\net7.0\LeftJoinAndRightJoin.dll
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\bin\Debug\net7.0\LeftJoinAndRightJoin.pdb
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.AssemblyInfoInputs.cache
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.AssemblyInfo.cs
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.csproj.CoreCompileInputs.cache
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.dll
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\refint\LeftJoinAndRightJoin.dll
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.pdb
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\LeftJoinAndRightJoin.genruntimeconfig.cache
+E:\Practice\Linq\LeftJoinAndRightJoin\LeftJoinAndRightJoin\obj\Debug\net7.0\ref\LeftJoinAndRightJoin.dll

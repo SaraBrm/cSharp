@@ -1,0 +1,14 @@
+E:\Practice\C#\PassingDelegate\PassingDelegate\bin\Debug\net6.0\PassingDelegate.exe
+E:\Practice\C#\PassingDelegate\PassingDelegate\bin\Debug\net6.0\PassingDelegate.deps.json
+E:\Practice\C#\PassingDelegate\PassingDelegate\bin\Debug\net6.0\PassingDelegate.runtimeconfig.json
+E:\Practice\C#\PassingDelegate\PassingDelegate\bin\Debug\net6.0\PassingDelegate.dll
+E:\Practice\C#\PassingDelegate\PassingDelegate\bin\Debug\net6.0\PassingDelegate.pdb
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.AssemblyInfoInputs.cache
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.AssemblyInfo.cs
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.csproj.CoreCompileInputs.cache
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.dll
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\refint\PassingDelegate.dll
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.pdb
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\PassingDelegate.genruntimeconfig.cache
+E:\Practice\C#\PassingDelegate\PassingDelegate\obj\Debug\net6.0\ref\PassingDelegate.dll

@@ -1,0 +1,14 @@
+E:\Practice\Linq\Paging\Paging\bin\Debug\net7.0\Paging.exe
+E:\Practice\Linq\Paging\Paging\bin\Debug\net7.0\Paging.deps.json
+E:\Practice\Linq\Paging\Paging\bin\Debug\net7.0\Paging.runtimeconfig.json
+E:\Practice\Linq\Paging\Paging\bin\Debug\net7.0\Paging.dll
+E:\Practice\Linq\Paging\Paging\bin\Debug\net7.0\Paging.pdb
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.AssemblyInfoInputs.cache
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.AssemblyInfo.cs
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.csproj.CoreCompileInputs.cache
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.dll
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\refint\Paging.dll
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.pdb
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\Paging.genruntimeconfig.cache
+E:\Practice\Linq\Paging\Paging\obj\Debug\net7.0\ref\Paging.dll

@@ -1,0 +1,14 @@
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.exe
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.deps.json
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.runtimeconfig.json
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.dll
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\bin\Debug\net6.0\MulticastDelegate.pdb
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.AssemblyInfoInputs.cache
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.AssemblyInfo.cs
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.dll
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\refint\MulticastDelegate.dll
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.pdb
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\MulticastDelegate.genruntimeconfig.cache
+E:\Practice\C#\MulticastDelegate\MulticastDelegate\obj\Debug\net6.0\ref\MulticastDelegate.dll

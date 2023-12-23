@@ -1,0 +1,14 @@
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.AssemblyInfoInputs.cache
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.AssemblyInfo.cs
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.csproj.CoreCompileInputs.cache
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\bin\Debug\net6.0\DefaultInterfaceMethod.exe
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\bin\Debug\net6.0\DefaultInterfaceMethod.deps.json
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\bin\Debug\net6.0\DefaultInterfaceMethod.runtimeconfig.json
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\bin\Debug\net6.0\DefaultInterfaceMethod.dll
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\bin\Debug\net6.0\DefaultInterfaceMethod.pdb
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.dll
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\refint\DefaultInterfaceMethod.dll
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.pdb
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\DefaultInterfaceMethod.genruntimeconfig.cache
+E:\Practice\C#\DefaultInterfaceMethod\DefaultInterfaceMethod\obj\Debug\net6.0\ref\DefaultInterfaceMethod.dll

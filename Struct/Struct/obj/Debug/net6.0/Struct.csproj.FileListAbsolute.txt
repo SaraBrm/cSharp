@@ -1,0 +1,14 @@
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Struct\Struct\bin\Debug\net6.0\Struct.exe
+E:\Practice\C#\Struct\Struct\bin\Debug\net6.0\Struct.deps.json
+E:\Practice\C#\Struct\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+E:\Practice\C#\Struct\Struct\bin\Debug\net6.0\Struct.dll
+E:\Practice\C#\Struct\Struct\bin\Debug\net6.0\Struct.pdb
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.dll
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\refint\Struct.dll
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.pdb
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+E:\Practice\C#\Struct\Struct\obj\Debug\net6.0\ref\Struct.dll

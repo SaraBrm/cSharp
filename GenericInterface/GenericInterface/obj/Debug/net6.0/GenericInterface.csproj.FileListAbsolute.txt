@@ -1,0 +1,14 @@
+E:\Practice\C#\GenericInterface\GenericInterface\bin\Debug\net6.0\GenericInterface.exe
+E:\Practice\C#\GenericInterface\GenericInterface\bin\Debug\net6.0\GenericInterface.deps.json
+E:\Practice\C#\GenericInterface\GenericInterface\bin\Debug\net6.0\GenericInterface.runtimeconfig.json
+E:\Practice\C#\GenericInterface\GenericInterface\bin\Debug\net6.0\GenericInterface.dll
+E:\Practice\C#\GenericInterface\GenericInterface\bin\Debug\net6.0\GenericInterface.pdb
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.AssemblyInfoInputs.cache
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.AssemblyInfo.cs
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.csproj.CoreCompileInputs.cache
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.dll
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\refint\GenericInterface.dll
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.pdb
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\GenericInterface.genruntimeconfig.cache
+E:\Practice\C#\GenericInterface\GenericInterface\obj\Debug\net6.0\ref\GenericInterface.dll

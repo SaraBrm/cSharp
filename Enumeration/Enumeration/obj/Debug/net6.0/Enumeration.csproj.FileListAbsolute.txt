@@ -1,0 +1,14 @@
+E:\Practice\C#\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.exe
+E:\Practice\C#\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.deps.json
+E:\Practice\C#\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.runtimeconfig.json
+E:\Practice\C#\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.dll
+E:\Practice\C#\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.pdb
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfoInputs.cache
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfo.cs
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.csproj.CoreCompileInputs.cache
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.dll
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\refint\Enumeration.dll
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.pdb
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.genruntimeconfig.cache
+E:\Practice\C#\Enumeration\Enumeration\obj\Debug\net6.0\ref\Enumeration.dll

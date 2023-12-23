@@ -1,0 +1,14 @@
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+E:\Practice\C#\ExtensionMethod\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

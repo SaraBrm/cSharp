@@ -1,0 +1,14 @@
+E:\Practice\Linq\GroupJoin\GroupJoin\bin\Debug\net7.0\GroupJoin.exe
+E:\Practice\Linq\GroupJoin\GroupJoin\bin\Debug\net7.0\GroupJoin.deps.json
+E:\Practice\Linq\GroupJoin\GroupJoin\bin\Debug\net7.0\GroupJoin.runtimeconfig.json
+E:\Practice\Linq\GroupJoin\GroupJoin\bin\Debug\net7.0\GroupJoin.dll
+E:\Practice\Linq\GroupJoin\GroupJoin\bin\Debug\net7.0\GroupJoin.pdb
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.AssemblyInfoInputs.cache
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.AssemblyInfo.cs
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.csproj.CoreCompileInputs.cache
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.dll
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\refint\GroupJoin.dll
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.pdb
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\GroupJoin.genruntimeconfig.cache
+E:\Practice\Linq\GroupJoin\GroupJoin\obj\Debug\net7.0\ref\GroupJoin.dll
